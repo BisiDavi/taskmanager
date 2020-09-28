@@ -1,0 +1,17 @@
+{
+  "name": "parsnip",
+  "version": "1.0.0",
+  "description": "A task manager that uses redux for it state management",
+  "main": "server/app.js",
+  "repository": "https://github.com/BisiDavi/taskmanager.git",
+  "author": "BisiDavi <oludavidconnect@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "client": "cd client && yarn start",
+    "server": "cd server && yarn start",
+    "dev": "concurrently \"yarn run server\" \"yarn run client\""
+  },
+  "devDependencies": {
+    "concurrently": "^5.3.0"
+  }
+}
