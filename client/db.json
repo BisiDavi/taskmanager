@@ -1,0 +1,40 @@
+{
+  "tasks": [
+    {
+      "title": "Hello Tamari",
+      "description": "How are you",
+      "status": "In Progress",
+      "id": 1
+    },
+    {
+      "title": "Finish Redux in Action",
+      "description": "I need to land myself a job",
+      "status": "Not Started",
+      "id": 2
+    },
+    {
+      "title": "I am a Vezeti Dev.",
+      "description": "I got the job folks!",
+      "status": "Completed",
+      "id": 3
+    },
+    {
+      "title": "Redux",
+      "description": "Understanding Redux",
+      "status": "In Progress",
+      "id": 4
+    },
+    {
+      "title": "Admission",
+      "description": "Get admitted",
+      "status": "Not Started",
+      "id": 5
+    },
+    {
+      "title": "Now working",
+      "description": "Wow my redux project is working",
+      "status": "Completed",
+      "id": 6
+    }
+  ]
+}
